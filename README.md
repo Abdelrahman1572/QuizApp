@@ -3,6 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+![QuizApp](https://user-images.githubusercontent.com/126156209/230619127-9b23dc04-3ce8-43cb-8431-37ffbf934f35.png)
+
 
 This project is a starting point for a Flutter application.
 
